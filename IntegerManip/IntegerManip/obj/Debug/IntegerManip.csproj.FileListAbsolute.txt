@@ -12,6 +12,15 @@ C:\Users\ryanp\Desktop\Repositories - CTW 2020\Source Control\IntegerManip\Integ
 C:\Users\ryanp\Desktop\Repositories - CTW 2020\Source Control\IntegerManip\IntegerManip\IntegerManip\obj\Debug\IntegerManip.csproj.CoreCompileInputs.cache
 C:\Users\ryanp\Desktop\Repositories - CTW 2020\Source Control\IntegerManip\IntegerManip\IntegerManip\obj\Debug\IntegerManip.exe
 C:\Users\ryanp\Desktop\Repositories - CTW 2020\Source Control\IntegerManip\IntegerManip\IntegerManip\obj\Debug\IntegerManip.pdb
+<<<<<<< HEAD
+C:\Users\Rebecca\Desktop\Repos\IntegerManip\IntegerManip\IntegerManip\obj\Debug\IntegerManip.csprojAssemblyReference.cache
+C:\Users\Rebecca\Desktop\Repos\IntegerManip\IntegerManip\IntegerManip\obj\Debug\IntegerManip.csproj.CoreCompileInputs.cache
+C:\Users\Rebecca\Desktop\Repos\IntegerManip\IntegerManip\IntegerManip\bin\Debug\IntegerManip.exe.config
+C:\Users\Rebecca\Desktop\Repos\IntegerManip\IntegerManip\IntegerManip\bin\Debug\IntegerManip.exe
+C:\Users\Rebecca\Desktop\Repos\IntegerManip\IntegerManip\IntegerManip\bin\Debug\IntegerManip.pdb
+C:\Users\Rebecca\Desktop\Repos\IntegerManip\IntegerManip\IntegerManip\obj\Debug\IntegerManip.exe
+C:\Users\Rebecca\Desktop\Repos\IntegerManip\IntegerManip\IntegerManip\obj\Debug\IntegerManip.pdb
+=======
 C:\Users\etb\Desktop\Repositories\IntegerManip\IntegerManip\IntegerManip\bin\Debug\IntegerManip.exe.config
 C:\Users\etb\Desktop\Repositories\IntegerManip\IntegerManip\IntegerManip\bin\Debug\IntegerManip.exe
 C:\Users\etb\Desktop\Repositories\IntegerManip\IntegerManip\IntegerManip\bin\Debug\IntegerManip.pdb
@@ -26,3 +35,4 @@ C:\Users\Jacob\Desktop\Repository\IntegerManip\IntegerManip\IntegerManip\obj\Deb
 C:\Users\Jacob\Desktop\Repository\IntegerManip\IntegerManip\IntegerManip\obj\Debug\IntegerManip.csproj.CoreCompileInputs.cache
 C:\Users\Jacob\Desktop\Repository\IntegerManip\IntegerManip\IntegerManip\obj\Debug\IntegerManip.exe
 C:\Users\Jacob\Desktop\Repository\IntegerManip\IntegerManip\IntegerManip\obj\Debug\IntegerManip.pdb
+>>>>>>> dev
