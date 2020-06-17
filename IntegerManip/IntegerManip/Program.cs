@@ -30,14 +30,18 @@ namespace IntegerManip
             
             do
             {
-                foreach(var p in num)
+                Console.WriteLine("Please add a number, -1 to exit");
+                user = Convert.ToInt32(Console.ReadLine());
+
+                if (user != -1)
                 {
-                    if((p % 3) == 0)
-                    {
-                        Console.WriteLine(a);
-                    }
+                    num.Add(user);
                 }
-                
+                else
+                {
+                    break;
+                }
+
             } while (num.Count != 20);
             Console.WriteLine("Input complete");
             int displayNum = 0;
@@ -114,6 +118,16 @@ namespace IntegerManip
                 }
                 Console.WriteLine("The sum is " + sum);
             }
+                if (displayNum == 6)
+                {
+                    foreach (var p in num)
+                    {
+                        if ((p % 3) == 0)
+                        {
+                            Console.WriteLine(p);
+                        }
+                    }
+                }
             } while (displayNum != 7);
             Console.ReadLine();
         }
