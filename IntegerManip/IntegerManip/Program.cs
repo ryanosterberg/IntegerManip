@@ -95,7 +95,7 @@ namespace IntegerManip
                 //Add in evry other comand in ifs
 
             
-            if (displayNum == 3)//every fifth number
+            if (displayNum == 4)//every fifth number
             {
                 for(int i=0; i<num.Count; i++)//for each index
                 {
@@ -107,7 +107,7 @@ namespace IntegerManip
                 Console.WriteLine();
             }
 
-            if (displayNum == 4)//sum
+            if (displayNum == 5)//sum
             {
                 int sum = 0;
                 foreach(int i in num)
