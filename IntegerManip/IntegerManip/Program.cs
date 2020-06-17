@@ -22,12 +22,12 @@ namespace IntegerManip
         {
 
                 //these vars should be there already so this code block should be deleted when merged and variable names changed
-                int menuItem =4;//will be the number corresponding with menu
+                int displayNum =4;//will be the number corresponding with menu
                 ArrayList num = new ArrayList();
                 num.Add(1); num.Add(2); num.Add(3); num.Add(4); num.Add(5); num.Add(6); num.Add(7); num.Add(8); num.Add(9); num.Add(10); num.Add(11);
 
 
-            if (menuItem == 3)//every fifth number
+            if (displayNum == 3)//every fifth number
             {
                 for(int i=0; i<num.Count; i++)//for each index
                 {
@@ -39,7 +39,7 @@ namespace IntegerManip
                 Console.WriteLine();
             }
 
-            if(menuItem == 4)//sum
+            if (displayNum == 4)//sum
             {
                 int sum = 0;
                 foreach(int i in num)
