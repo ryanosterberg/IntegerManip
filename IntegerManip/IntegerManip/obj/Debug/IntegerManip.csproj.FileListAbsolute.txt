@@ -19,3 +19,10 @@ C:\Users\etb\Desktop\Repositories\IntegerManip\IntegerManip\IntegerManip\obj\Deb
 C:\Users\etb\Desktop\Repositories\IntegerManip\IntegerManip\IntegerManip\obj\Debug\IntegerManip.csproj.CoreCompileInputs.cache
 C:\Users\etb\Desktop\Repositories\IntegerManip\IntegerManip\IntegerManip\obj\Debug\IntegerManip.exe
 C:\Users\etb\Desktop\Repositories\IntegerManip\IntegerManip\IntegerManip\obj\Debug\IntegerManip.pdb
+C:\Users\Jacob\Desktop\Repository\IntegerManip\IntegerManip\IntegerManip\bin\Debug\IntegerManip.exe.config
+C:\Users\Jacob\Desktop\Repository\IntegerManip\IntegerManip\IntegerManip\bin\Debug\IntegerManip.exe
+C:\Users\Jacob\Desktop\Repository\IntegerManip\IntegerManip\IntegerManip\bin\Debug\IntegerManip.pdb
+C:\Users\Jacob\Desktop\Repository\IntegerManip\IntegerManip\IntegerManip\obj\Debug\IntegerManip.csprojAssemblyReference.cache
+C:\Users\Jacob\Desktop\Repository\IntegerManip\IntegerManip\IntegerManip\obj\Debug\IntegerManip.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\Desktop\Repository\IntegerManip\IntegerManip\IntegerManip\obj\Debug\IntegerManip.exe
+C:\Users\Jacob\Desktop\Repository\IntegerManip\IntegerManip\IntegerManip\obj\Debug\IntegerManip.pdb
