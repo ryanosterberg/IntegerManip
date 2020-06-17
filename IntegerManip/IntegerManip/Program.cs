@@ -44,35 +44,33 @@ namespace IntegerManip
                     Console.WriteLine(num.get(i));
                 }
             }
-            else
+
+            if (displayNum == 2)
             {
-                if (displayNum == 2)
+                //evens
+                for (i = 0; i < num.size(); i++)
                 {
-                    //evens
-                    for (i = 0; i < num.size(); i++)
+                    if (num.get(i) / 2 == 0)
                     {
-                        if (num.get(i) / 2 == 0)
-                        {
-                            Console.WriteLine(num.get(i));
-                        }
+                        Console.WriteLine(num.get(i));
                     }
-                }
-                else
-                {
-                    if (displayNum == 3)
-                    {
-                        //odds
-                        for (i = 0; i < num.size(); i++)
-                        {
-                            if (num.get(i) / 2 != 0)
-                            {
-                                Console.WriteLine(num.get(i));
-                            }
-                        }
-                    }
-                    //Add in evry other comand in elses and ifs
                 }
             }
+
+            if (displayNum == 3)
+            {
+                //odds
+                for (i = 0; i < num.size(); i++)
+                {
+                    if (num.get(i) / 2 != 0)
+                    {
+                        Console.WriteLine(num.get(i));
+                    }
+                }
+            }
+            //Add in evry other comand in ifs
+
+
             Console.ReadLine();
         }
     }
