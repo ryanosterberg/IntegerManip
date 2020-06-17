@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Microsoft.Win32;
+using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net.NetworkInformation;
@@ -19,7 +21,27 @@ namespace IntegerManip
         //• Display every number divisible by 3
         //• Quit
         static void Main(string[] args)
+        
         {
+            ArrayList num = new ArrayList { };
+            int user = 0;
+
+            do
+            {
+                Console.WriteLine("Please add a number, -1 to exit");
+                user = Convert.ToInt32(Console.ReadLine());
+                
+                if (user != -1)
+                {
+                    num.Add(user);
+                } else
+                {
+                    break;
+                }
+                
+            } while (num.Count != 20);
+            Console.WriteLine("Input complete");
+
 
 
             Console.WriteLine("What would you like to see?");
